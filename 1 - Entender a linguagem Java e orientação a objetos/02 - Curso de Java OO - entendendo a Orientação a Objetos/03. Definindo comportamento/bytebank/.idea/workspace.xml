@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="499c70b6-7a8d-4414-8e70-971eea2bd08c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../02. Instanciação, atributos e referências/bytebank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02. Instanciação, atributos e referências/bytebank/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestaMetodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaMetodo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CriaConta.executor": "Run",
+    "Application.TestaMetodo.executor": "Run",
     "Application.TesteDeReferencia.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -83,7 +87,8 @@
       <workItem from="1746403283691" duration="6069000" />
       <workItem from="1746475786520" duration="9112000" />
       <workItem from="1746721213578" duration="594000" />
-      <workItem from="1746821888077" duration="1356000" />
+      <workItem from="1746821888077" duration="2558000" />
+      <workItem from="1746890903511" duration="680000" />
     </task>
     <servers />
   </component>
