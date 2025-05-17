@@ -6,9 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="499c70b6-7a8d-4414-8e70-971eea2bd08c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../02. Instanciação, atributos e referências/bytebank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02. Instanciação, atributos e referências/bytebank/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03. Definindo comportamento.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../03. Definindo comportamento.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestaMetodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaMetodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~$. Definindo comportamento.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../~$. Definindo comportamento.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,33 +51,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CriaConta.executor": "Run",
-    "Application.TestaMetodo.executor": "Run",
-    "Application.TesteDeReferencia.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/use/Documents/Alura/Aprenda a programar em Java com Orientação a Objetos/1 - Entender a linguagem Java e orientação a objetos/02 - Curso de Java OO - entendendo a Orientação a Objetos/03. Definindo comportamento/bytebank",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CriaConta.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestaMetodo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteDeReferencia.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/use/Documents/Alura/Aprenda a programar em Java com Orientação a Objetos/1 - Entender a linguagem Java e orientação a objetos/02 - Curso de Java OO - entendendo a Orientação a Objetos/03. Definindo comportamento/bytebank&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
-      </set>
-    </attachedChunks>
-  </component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -89,6 +83,8 @@
       <workItem from="1746721213578" duration="594000" />
       <workItem from="1746821888077" duration="2558000" />
       <workItem from="1746890903511" duration="680000" />
+      <workItem from="1747259006503" duration="594000" />
+      <workItem from="1747274960040" duration="975000" />
     </task>
     <servers />
   </component>
