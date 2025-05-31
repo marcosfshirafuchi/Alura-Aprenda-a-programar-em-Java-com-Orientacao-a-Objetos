@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="499c70b6-7a8d-4414-8e70-971eea2bd08c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../~$. Definindo comportamento.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../~WRL0005.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06. Construtores e membros estáticos/bytebank-encapsulado/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06. Construtores e membros estáticos/bytebank-encapsulado/src/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06. Construtores e membros estáticos/bytebank-encapsulado/src/TestaGetESet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06. Construtores e membros estáticos/bytebank-encapsulado/src/TestaGetESet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,7 @@
       <workItem from="1747274960040" duration="6619000" />
       <workItem from="1747670749317" duration="594000" />
       <workItem from="1747693849956" duration="592000" />
-      <workItem from="1747738471821" duration="596000" />
+      <workItem from="1747738471821" duration="2875000" />
     </task>
     <servers />
   </component>
